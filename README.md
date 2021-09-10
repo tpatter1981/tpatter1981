@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Tiffani Patterson and I am a self-taught software engineer. I have been on this coding adventure for about 2 years now. My background is in HR and I fell into coding by accident. I was watching a video on YouTube and the creator mentioned that he was a software developer. That peaked my interest and I googled computer programming. I have been traveling down the coding rabbit hole since then. It has been a fun ride so far and I look forward to whatever this new skill will bring in the future.
+
+ 
 
 <!--
 **tpatter1981/tpatter1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
